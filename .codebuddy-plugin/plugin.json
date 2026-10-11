@@ -1,0 +1,23 @@
+{
+  "name": "spindoctor-qwerty",
+  "version": "1.1.0",
+  "description": "CodeBuddy Code / WorkBuddy plugin for the SpinDoctor 3.1.2 quantum-circuit SIMULATOR: a skill, 4 slash commands, a helper agent and a local MCP server; 1-298 logical qubits, 241 presets, q.folder, theory testing, TXT/PDF/JSON/CSV reports. Classical FP64 simulation, not a quantum computer.",
+  "author": {
+    "name": "RUSSELL PHILIP SMITHSON",
+    "email": "russellsmithson77@outlook.com",
+    "url": "https://github.com/LKVexa"
+  },
+  "homepage": "https://github.com/LKVexa/spindoctor-qwerty-codebuddy",
+  "repository": "https://github.com/LKVexa/spindoctor-qwerty-codebuddy",
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "quantum",
+    "quantum-circuit",
+    "simulator",
+    "spindoctor",
+    "codebuddy",
+    "workbuddy",
+    "mcp",
+    "qwerty"
+  ]
+}
