@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "spindoctor-qwerty": {
+      "type": "stdio",
+      "command": "python3",
+      "args": [
+        "${CODEBUDDY_PLUGIN_ROOT}/skills/spindoctor-qwerty/scripts/spindoctor_mcp.py"
+      ],
+      "env": {
+        "SPINDOCTOR_WORKSPACE": "${CODEBUDDY_PLUGIN_DATA}/workspace",
+        "PYTHONUTF8": "1",
+        "PYTHONDONTWRITEBYTECODE": "1"
+      }
+    }
+  }
+}
